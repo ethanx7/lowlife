@@ -1,1 +1,1 @@
-print("este es un mensaje que se subuirá a github")
+print("este es un mensaje que se actualizara y se guardara en el repositorio de github")
